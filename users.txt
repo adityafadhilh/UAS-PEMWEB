@@ -1,0 +1,14 @@
+admin :
+
+email : admin@umn.ac.id 
+pass  : test
+
+user :
+
+email : test@gmail.com
+pass : 123
+
+management :
+
+email : manage@gmail.com
+pass : 1234
